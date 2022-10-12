@@ -1,6 +1,7 @@
 {
   "platforms": [
-    "ios"
+    "ios",
+    "android"
   ],
   "ios": {
     "appDelegateSubscribers": [
