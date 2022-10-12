@@ -66,13 +66,7 @@ export {
   ShareDialogModeIOS,
   ShareDialogResult,
 } from './FBShareDialog';
-export {
-  default as LoginButton,
-  Event,
-  TooltipBehaviorIOS,
-} from './FBLoginButton';
-export {default as SendButton} from './FBSendButton';
-export {default as ShareButton} from './FBShareButton';
+
 export {default as AEMReporterIOS} from './FBAEMReporter';
 
 export {RNFBSDKCallback} from './models/FBSDKCallback';
